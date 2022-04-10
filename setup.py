@@ -29,11 +29,16 @@ setup(
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Environment :: Console',
-        'License :: OSI Approved :: MIT License',
-        'Programming Language :: Python',
-        'Programming Language :: Python :: 3.5',
-        'Topic :: Software Development :: Libraries',
+        'Framework :: Pytest',
         'Intended Audience :: Developers',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: MacOS :: MacOS X',
+        'Operating System :: POSIX :: Linux',
+        'Programming Language :: Python :: 3.5',
+        'Programming Language :: Python',
+        'Topic :: Software Development :: Libraries',
+        'Topic :: Software Development :: Testing',
+        'Topic :: Utilities',
     ],
-    keywords=['testing', 'pytest', 'test matrix', 'docker', 'pyenv', 'helper']
+    keywords=['testing', 'pytest', 'cli', 'command-line', 'test matrix', 'docker', 'pyenv', 'helper', 'kenjyco']
 )
